@@ -2,7 +2,7 @@ tilecloud>=0.2dev-20130808
 psycopg2
 Shapely
 boto>=2.0
-PyYAML
+PyYAML==3.11
 Jinja2
 pyramid
 pykwalify
